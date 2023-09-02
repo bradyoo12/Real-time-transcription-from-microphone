@@ -1,2 +1,3 @@
+pipwin
 websockets
 pyaudio
