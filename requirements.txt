@@ -1,5 +1,3 @@
 wheel
-portaudio19-dev
-python-all-dev
 websockets
 pyaudio
